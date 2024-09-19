@@ -7,9 +7,9 @@
 - Clone the repository
 - Run `pip install -r requirements.txt`
 
-## Running the Barcelona app
+## Running the onboarding app
 
-- Run `streamlit run Barcelona.py`
+- Run `streamlit run main.py`
 
 ## Barcelona Homepage
 
