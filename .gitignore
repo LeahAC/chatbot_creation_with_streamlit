@@ -1,0 +1,4 @@
+.venv
+.env
+my_database.db
+pinecone_content.py
